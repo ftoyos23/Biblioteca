@@ -1,0 +1,6 @@
+<uml>
+  <class name='Libro'>
+    <attribute name='titulo'/>
+    <attribute name='autor'/>
+  </class>
+</uml>
