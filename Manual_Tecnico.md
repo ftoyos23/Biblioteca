@@ -1,3 +1,3 @@
 # Manual Técnico
 
-Este manual describe la estructura del sistema Biblioteca y su funcionamiento interno.
+Este manual describe la estructura del sistema Biblioteca y su funcionamiento interino.
